@@ -1,0 +1,65 @@
+body{ text-align:center; background:linear-gradient(#9b34eb 0%,#f230e2 100%); }
+
+  
+  
+
+img
+{
+  width:350px;
+   height:350px; 
+} 
+
+h1{
+  text-shadow:2px 2px #F8BBD0;
+  font-size:35px;
+}
+
+p{
+  font-size:25px;
+  color:darkblue;
+  font-weight:bold;
+  
+  
+}
+h2{
+  font-size:20px;
+  color:#1A237E;
+}
+.line{
+  height:6px;
+  background-color:black;
+  width:70px;
+  margin:8px auto;
+    
+   
+}
+#bio{
+  padding:20px;
+  font-size:18;
+  text-align:center;
+}
+
+.menu{
+list-style: none;
+font-family: cursive;
+float: right;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color:black
+    
+}
+
+.link{
+display: inline;
+padding-right: 20px;    
+}
+
+.link,hover{
+text-shadow: 2px 2px green;
+    
+}
+
+#name{
+font-family:'Cinzel Decorative';   
+}
